@@ -16,7 +16,7 @@ Sample Superstore Dataset
 
 ## Dashboard Preview
 
-![Dashboard](Images/dashboard.jpeg)
+![Dashboard](Screenshot%202026-06-01%20182428.png)
 
 ## Key Metrics
 
